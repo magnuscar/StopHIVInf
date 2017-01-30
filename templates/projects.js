@@ -29,11 +29,18 @@ projects = [
 		"markdown": "sugarbuilder.md"
 	},
 	{
-		“name” : “StopHIVInf”,
-		“desc” : “Design a web tool to predict protective antibody levels against HIV infection”,
-		“issues” : [
-			“https://github.com/cmagnus/StopHIVInf”
-		]
+		"name": "StopHIVInf",
+		"desc" : "Design a web tool to predict protective antibody levels against HIV infection",
+		"issues" : [
+			"https://github.com/cmagnus/StopHIVInf"
+		],
+		"mentors" : [
+			"magnuscar"
+		],
+		"keywords" : ["HIV", "antibodies", "neutralisation", "javascript", "web-interface", "prediction tool"],
+		"links" : ["https://github.com/magnuscar/StopHIVInf"],
+		"skills" : ["C", "R", "javascript", "webdesign", "html","css","wordpress"],
+		"markdown": "StopHIVInf.md"
 	}
 
 	
